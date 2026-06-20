@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VersePlugin",
+	"Description": "Plugin with Verse support",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"VersePath": "/VersePlugin",
+	"VerseScope": "InternalUser",
+	"VerseVersion": 1,
+	"EnableSceneGraph": true,
+	"EnableSceneGraphAnimation ": true,
+	"EnableVerseAssetReflection": true,
+	"CanContainVerse": true,
+	"VerseAPI": 1,
+	"Plugins": [
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseLink",
+			"Enabled": true
+		}
+	]
+}

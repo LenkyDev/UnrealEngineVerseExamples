@@ -41,6 +41,7 @@ public class VerseLink : ModuleRules
                 "Verse",
                 "VerseNative",
                 "VersePredicts",
+                "VerseSpatialMath"
 				// ... add private dependencies that you statically link with here ...	
 			}
             );

@@ -31,6 +31,10 @@
 		{
 			"Name": "Verse",
 			"Enabled": true
+		},
+		{
+			"Name": "VerseSpatialMath",
+			"Enabled": true
 		}
 	]
 }
